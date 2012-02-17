@@ -1,0 +1,4 @@
+PhpIntellisense is a PHP function autocomplete plugin for Sublime Text 2.
+
+Use CTRL+Space to trigger the function autocomplete.  This plugin will provide all the arguments of a PHP function
+for you in both the status bar and insert the code should you press Return.
